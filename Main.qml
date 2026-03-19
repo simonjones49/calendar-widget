@@ -11,8 +11,7 @@ Item {
         name: "CalendarPlugin"
     }
 
-    // This object links your UI to the settings system
-    // It will automatically look for settings.json or use manifest defaults
+
     JsonSettings {
         id: calendarSettings
         source: Qt.resolvedUrl("settings.json")
@@ -26,7 +25,7 @@ Item {
                 "Monthly Calendar",
                 "calendar-month",
                 Qt.resolvedUrl("DesktopWidget.qml"),
-                Qt.resolvedUrl("Settings.qml") // Pass it here too for double-assurance
+                Qt.resolvedUrl("Settings.qml") 
             );
             logger.info("Calendar widget registered with settings support.");
         }

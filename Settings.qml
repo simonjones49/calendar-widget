@@ -1,6 +1,6 @@
 import QtQuick
 import QtQuick.Layouts
-import QtQuick.Controls // This is the vital import for CheckBox
+import QtQuick.Controls
 import qs.Commons
 import qs.Widgets
 
