@@ -7,10 +7,6 @@ A compact, theme aware Noctalia desktop widget that displays the current month.
 ## Features
 - **Day Highlight**
 
-## Installation
-Clone this repo into your Noctalia plugins directory:
-\`~/.config/noctalia/plugins/calendar-widget\`
-
 ## Configuration
 **First Day of Week**: Toggle between Sunday or Monday start.
 
