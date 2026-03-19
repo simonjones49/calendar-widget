@@ -12,7 +12,7 @@ Clone this repo into your Noctalia plugins directory:
 \`~/.config/noctalia/plugins/calendar-widget\`
 
 ## Configuration
--Coming soon **First Day of Week**: Toggle between Sunday or Monday start.
+**First Day of Week**: Toggle between Sunday or Monday start.
 
 ## Requirements
 - **Noctalia Shell**: 3.6.0 or later.

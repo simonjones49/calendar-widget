@@ -10,9 +10,12 @@
   "tags": ["Desktop", "Utility"],
   "entryPoints": {
     "main": "Main.qml",
-    "desktopWidget": "DesktopWidget.qml"
+    "desktopWidget": "DesktopWidget.qml",
+    "settings": "Settings.qml"
   },
   "metadata": {
-    "defaultSettings": {}
+    "defaultSettings": {
+		"startOnMonday": true
+	}
   }
 }
