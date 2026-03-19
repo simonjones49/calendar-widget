@@ -2,7 +2,7 @@
 ![Preview](preview.png)
 
 
-A compact, elegant Noctalia bar widget that displays the current date.
+A compact, elegant Noctalia desktop widget that displays the current month.
 
 ## Features
 - **Day Highlight**
