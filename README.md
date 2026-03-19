@@ -1,4 +1,6 @@
 # Calendar Widget
+![Preview](preview.png)
+
 
 A compact, elegant Noctalia bar widget that displays the current date and time. It provides a quick expansion view for monthly planning and event tracking.
 
