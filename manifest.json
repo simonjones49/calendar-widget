@@ -9,13 +9,12 @@
   "description": "Monthly calendar with today highlighted.",
   "tags": ["Desktop", "Utility"],
   "entryPoints": {
-    "main": "Main.qml",
     "desktopWidget": "DesktopWidget.qml",
-    "settings": "Settings.qml"
+    "settings": "DesktopWidgetSettings.qml"
   },
   "metadata": {
     "defaultSettings": {
-		"startOnMonday": true
-	}
+      "startOnMonday": true
+    }
   }
 }
