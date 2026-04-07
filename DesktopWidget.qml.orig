@@ -64,7 +64,7 @@ DraggableDesktopWidget {
         color: Color.mSurface
         opacity: 0.85
         radius: Style.radiusM
-        border.color: Color.mOutline
+        border.color: Color.mOutlineVariant
         border.width: 1
 
         ColumnLayout {
